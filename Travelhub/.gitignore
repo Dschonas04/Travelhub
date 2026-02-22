@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+
+# Swift Package Manager
+.build/
+Packages/
+
+# Flutter
+travelhub_flutter/.dart_tool/
+travelhub_flutter/.packages
+travelhub_flutter/build/
+travelhub_flutter/.flutter-plugins
+travelhub_flutter/.flutter-plugins-dependencies
+travelhub_flutter/ios/Pods/
+travelhub_flutter/ios/.symlinks/
+travelhub_flutter/ios/Flutter/Flutter.framework
+travelhub_flutter/ios/Flutter/Flutter.podspec
+travelhub_flutter/android/.gradle/
+travelhub_flutter/android/app/build/
+travelhub_flutter/.idea/
+travelhub_flutter/*.iml
+
+# CocoaPods
+Pods/
+
+# Misc
+*.log

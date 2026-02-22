@@ -29,20 +29,131 @@
 		DD2A33092F4B356A00B6F845 /* Travel-hubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Travel-hubUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		DD2A33E72F4B368800B6F845 /* Exceptions for "Travel-hub" folder in "Travel-hubTests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Travelhub.swift/Assets.xcassets,
+				Travelhub.swift/Components/ChatBubbleView.swift,
+				Travelhub.swift/Components/ColorExtension.swift,
+				Travelhub.swift/Components/ExpenseRowView.swift,
+				Travelhub.swift/Components/StarRatingView.swift,
+				Travelhub.swift/Components/TripCardView.swift,
+				Travelhub.swift/Components/UserAvatarView.swift,
+				Travelhub.swift/ContentView.swift,
+				Travelhub.swift/Item.swift,
+				Travelhub.swift/Models/Agreement.swift,
+				Travelhub.swift/Models/BudgetExpense.swift,
+				Travelhub.swift/Models/ChatMessage.swift,
+				Travelhub.swift/Models/Friend.swift,
+				Travelhub.swift/Models/LoginView.swift,
+				Travelhub.swift/Models/Notification.swift,
+				Travelhub.swift/Models/Poll.swift,
+				Travelhub.swift/Models/RegisterView.swift,
+				Travelhub.swift/Models/RouteLocation.swift,
+				Travelhub.swift/Models/Trip.swift,
+				Travelhub.swift/Models/TripMember.swift,
+				Travelhub.swift/Models/User.swift,
+				Travelhub.swift/TravelhubApp.swift,
+				Travelhub.swift/ViewModels/BudgetViewModel.swift,
+				Travelhub.swift/ViewModels/ChatViewModel.swift,
+				Travelhub.swift/ViewModels/DashboardViewModel.swift,
+				Travelhub.swift/ViewModels/FriendsViewModel.swift,
+				Travelhub.swift/ViewModels/TripsViewModel.swift,
+				Travelhub.swift/Views/AddFriendView.swift,
+				Travelhub.swift/Views/AgreementsView.swift,
+				Travelhub.swift/Views/BudgetView.swift,
+				Travelhub.swift/Views/ChatListView.swift,
+				Travelhub.swift/Views/ChatView.swift,
+				Travelhub.swift/Views/CreateTripView.swift,
+				Travelhub.swift/Views/DashboardView.swift,
+				Travelhub.swift/Views/FriendsView.swift,
+				Travelhub.swift/Views/GroupManagementView.swift,
+				Travelhub.swift/Views/HotelView.swift,
+				Travelhub.swift/Views/MainTabView.swift,
+				Travelhub.swift/Views/PacklisteView.swift,
+				Travelhub.swift/Views/PhotoSharingView.swift,
+				Travelhub.swift/Views/ProfileView.swift,
+				Travelhub.swift/Views/SearchHubView.swift,
+				Travelhub.swift/Views/TravelTipsView.swift,
+				Travelhub.swift/Views/TripDetailView.swift,
+				Travelhub.swift/Views/TripsListView.swift,
+				Travelhub.swift/Views/VotingView.swift,
+				TravelhubTests/TravelhubTests.swift,
+				TravelhubTests/TravelhubXCTests.swift,
+				TravelhubUITests/BudgetCategoryStyle.swift,
+				TravelhubUITests/TravelhubUITests.swift,
+				TravelhubUITests/TravelhubUITestsLaunchTests.swift,
+			);
+			target = DD2A32FE2F4B356A00B6F845 /* Travel-hubTests */;
+		};
+		DD2A33E82F4B368800B6F845 /* Exceptions for "Travel-hub" folder in "Travel-hubUITests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Travelhub.swift/Assets.xcassets,
+				Travelhub.swift/Components/ChatBubbleView.swift,
+				Travelhub.swift/Components/ColorExtension.swift,
+				Travelhub.swift/Components/ExpenseRowView.swift,
+				Travelhub.swift/Components/StarRatingView.swift,
+				Travelhub.swift/Components/TripCardView.swift,
+				Travelhub.swift/Components/UserAvatarView.swift,
+				Travelhub.swift/ContentView.swift,
+				Travelhub.swift/Item.swift,
+				Travelhub.swift/Models/Agreement.swift,
+				Travelhub.swift/Models/BudgetExpense.swift,
+				Travelhub.swift/Models/ChatMessage.swift,
+				Travelhub.swift/Models/Friend.swift,
+				Travelhub.swift/Models/LoginView.swift,
+				Travelhub.swift/Models/Notification.swift,
+				Travelhub.swift/Models/Poll.swift,
+				Travelhub.swift/Models/RegisterView.swift,
+				Travelhub.swift/Models/RouteLocation.swift,
+				Travelhub.swift/Models/Trip.swift,
+				Travelhub.swift/Models/TripMember.swift,
+				Travelhub.swift/Models/User.swift,
+				Travelhub.swift/TravelhubApp.swift,
+				Travelhub.swift/ViewModels/BudgetViewModel.swift,
+				Travelhub.swift/ViewModels/ChatViewModel.swift,
+				Travelhub.swift/ViewModels/DashboardViewModel.swift,
+				Travelhub.swift/ViewModels/FriendsViewModel.swift,
+				Travelhub.swift/ViewModels/TripsViewModel.swift,
+				Travelhub.swift/Views/AddFriendView.swift,
+				Travelhub.swift/Views/AgreementsView.swift,
+				Travelhub.swift/Views/BudgetView.swift,
+				Travelhub.swift/Views/ChatListView.swift,
+				Travelhub.swift/Views/ChatView.swift,
+				Travelhub.swift/Views/CreateTripView.swift,
+				Travelhub.swift/Views/DashboardView.swift,
+				Travelhub.swift/Views/FriendsView.swift,
+				Travelhub.swift/Views/GroupManagementView.swift,
+				Travelhub.swift/Views/HotelView.swift,
+				Travelhub.swift/Views/MainTabView.swift,
+				Travelhub.swift/Views/PacklisteView.swift,
+				Travelhub.swift/Views/PhotoSharingView.swift,
+				Travelhub.swift/Views/ProfileView.swift,
+				Travelhub.swift/Views/SearchHubView.swift,
+				Travelhub.swift/Views/TravelTipsView.swift,
+				Travelhub.swift/Views/TripDetailView.swift,
+				Travelhub.swift/Views/TripsListView.swift,
+				Travelhub.swift/Views/VotingView.swift,
+				TravelhubTests/TravelhubTests.swift,
+				TravelhubTests/TravelhubXCTests.swift,
+				TravelhubUITests/BudgetCategoryStyle.swift,
+				TravelhubUITests/TravelhubUITests.swift,
+				TravelhubUITests/TravelhubUITestsLaunchTests.swift,
+			);
+			target = DD2A33082F4B356A00B6F845 /* Travel-hubUITests */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		DD2A32F22F4B356900B6F845 /* Travel-hub */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				DD2A33E72F4B368800B6F845 /* Exceptions for "Travel-hub" folder in "Travel-hubTests" target */,
+				DD2A33E82F4B368800B6F845 /* Exceptions for "Travel-hub" folder in "Travel-hubUITests" target */,
+			);
 			path = "Travel-hub";
-			sourceTree = "<group>";
-		};
-		DD2A33022F4B356A00B6F845 /* Travel-hubTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Travel-hubTests";
-			sourceTree = "<group>";
-		};
-		DD2A330C2F4B356A00B6F845 /* Travel-hubUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Travel-hubUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -76,8 +187,6 @@
 			isa = PBXGroup;
 			children = (
 				DD2A32F22F4B356900B6F845 /* Travel-hub */,
-				DD2A33022F4B356A00B6F845 /* Travel-hubTests */,
-				DD2A330C2F4B356A00B6F845 /* Travel-hubUITests */,
 				DD2A32F12F4B356900B6F845 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +239,6 @@
 			dependencies = (
 				DD2A33012F4B356A00B6F845 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				DD2A33022F4B356A00B6F845 /* Travel-hubTests */,
-			);
 			name = "Travel-hubTests";
 			packageProductDependencies = (
 			);
@@ -152,9 +258,6 @@
 			);
 			dependencies = (
 				DD2A330B2F4B356A00B6F845 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				DD2A330C2F4B356A00B6F845 /* Travel-hubUITests */,
 			);
 			name = "Travel-hubUITests";
 			packageProductDependencies = (
